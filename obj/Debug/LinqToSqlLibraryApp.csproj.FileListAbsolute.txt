@@ -1,0 +1,10 @@
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\bin\Debug\LinqToSqlLibraryApp.exe.config
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\bin\Debug\LinqToSqlLibraryApp.exe
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\bin\Debug\LinqToSqlLibraryApp.pdb
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.csprojAssemblyReference.cache
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.Form1.resources
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.Properties.Resources.resources
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.csproj.GenerateResource.cache
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.csproj.CoreCompileInputs.cache
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.exe
+E:\Arbeit\Домашня робота\LinqToSqlLibraryApp\LinqToSqlLibraryApp\obj\Debug\LinqToSqlLibraryApp.pdb
